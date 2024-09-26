@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "RonSijm.VismaPUM.CLI": {
+      "commandName": "Project"
+    },
+    "Save": {
+      "commandName": "Project",
+      "commandLineArgs": "-s -p staging"
+    },
+    "Load Staging": {
+      "commandName": "Project",
+      "commandLineArgs": "-l staging"
+    },
+    "Load File": {
+      "commandName": "Project",
+      "commandLineArgs": "-l D:\\RonSijm\\RonSijm.Visma.PUM.AWS\\staging.AWS-Pum-Profile"
+    }
+  }
+}

@@ -170,3 +170,6 @@ $RECYCLE.BIN/
 
 # Rider Files
 .idea/
+
+# Profiles
+*.AWS-Pum-Profile
